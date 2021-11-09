@@ -9,7 +9,6 @@ import IndexCategory1 from 'pages/category1/Index';
 import Category1 from 'pages/category1/CategoryPage1';
 import 'styles/globals.css';
 
-// import PrivateRoute from 'components/PrivateRoute';
 
 function App() {
   const [userData, setUserData] = useState({});
